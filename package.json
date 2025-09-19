@@ -1,0 +1,33 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is namaste react",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suvarnabandaru80/react-basics.git"
+  },
+  "keywords": [],
+  "author": "\"suvarna\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suvarnabandaru80/react-basics/issues"
+  },
+  "homepage": "https://github.com/suvarnabandaru80/react-basics#readme",
+  "dependencies": {
+    "parcel": "^2.15.4",
+    "react": "^19.1.1",
+    "react-dom": "^19.1.1"
+  },
+  "browseslist": [
+    "last 2 Chrome version"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "git-pages": "^0.8.1"
+  }
+}
